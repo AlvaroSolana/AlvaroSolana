@@ -3,7 +3,7 @@ I'm **Álvaro**, a Telecommunications Engineer with a passion for **AI** and **b
 
 ### 🔍 Here are some of my projects  
 _(Check out the repositories below for more details!)_:
-- 🤖 **Reinforcement Learning** for optimizing **heterogeneous networks**
+- 🤖 **Reinforcement Learning** for optimizing **Multi-RAT networks**
 - 🔐 **Machine Learning** to detect and prevent **cyberattacks**
 - 📡 **Edge Computing** for **AI-based pattern recognition** tasks
 - 🗣️ **Natural Language Processing** for **mental health** support
