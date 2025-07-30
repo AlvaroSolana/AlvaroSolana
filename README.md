@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Álvaro**, a Telecommunications Engineer with a passion for **AI** and **business**.
+I'm **Álvaro**, a **Telecommunications Engineer** with a passion for **AI** and **business**.
 
 ### 🔍 Here are some of my projects:
 - 🤖 **Reinforcement Learning** for optimizing **Multi-RAT networks**
