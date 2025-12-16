@@ -1,7 +1,7 @@
 ## Hi there 👋  
 I'm **Álvaro**, a **Telecommunications Engineer** with a passion for **AI** and **business**.
 
-### 🔍 Here are some of my projects:
+### 🔍 Here are some of my engineering projects (2023-2025) :
 - 🤖 **Reinforcement Learning** for optimizing **Multi-RAT networks**
 - 📡 **Edge Computing** for **AI-based pattern recognition** tasks
 - 🔐 **Machine Learning** to detect and prevent **cyberattacks**
